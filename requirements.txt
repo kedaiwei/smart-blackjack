@@ -1,0 +1,8 @@
+matplotlib==3.7.2
+numpy==2.2.0
+pandas==2.0.3
+<<<<<<< HEAD
+pytest==6.2.4
+=======
+pytest==6.2.4
+>>>>>>> 429c1eff0c2c6b2760a9134dfe20501afc6c0f08
