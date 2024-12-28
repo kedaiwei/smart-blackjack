@@ -3,7 +3,7 @@ To run the training:
 python with_split_double/main.py
 
 
-Requirements/installations: 
+Requirements/installations: \
 iniconfig==2.0.0
 numpy==2.1.3
 packaging==24.2
